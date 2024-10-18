@@ -27,6 +27,19 @@ We explored various factors that influenced the survival of passengers and found
     - There was a strong negative correlation between gender and survival, with females having a better chance of survival.
     - The fare had a positive correlation with survival, meaning passengers who paid more were more likely to survive.
     - ![Correlation Heatmap](https://github.com/gursimran8/Titanic_Logistic_Regression/blob/main/Images/Correlation%20after%20label_encoding.png)
+ 
+- ### Heatmap Analysis
+
+The heatmap highlights the correlation between various features and survival in the Titanic dataset:
+
+- **Gender and Survival**: A strong negative correlation (-0.543) shows that females had a higher likelihood of survival compared to males.
+- **Passenger Class and Fare**: There is a negative correlation (-0.549) between `pclass` and `fare`, indicating that higher-class passengers paid more for their tickets.
+- **Pclass and Survival**: A negative correlation (-0.338) suggests that passengers in higher classes were more likely to survive.
+- **Fare and Survival**: A positive correlation (0.257) shows that higher fares were associated with a higher chance of survival.
+
+These correlations help identify which features have the most significant impact on survival and guide the model-building process.
+
+![Heatmap](https://github.com/gursimran8/Titanic_Logistic_Regression/blob/main/Images/Heat%20map.png)
 
 ## Problems Faced During Model Creation
 
