@@ -12,7 +12,7 @@ We explored various factors that influenced the survival of passengers and found
 - **Gender and Class Impact on Survival**: 
     - Females had a significantly higher survival rate, especially in third class.
     - Higher class passengers (first class) had a better chance of survival than those in second or third class.
-    - ![Gender and Class Impact]([https://github.com/gursimran8/Titanic_Logistic_Regression/blob/main/Images/Barplot_gender~class~survival.png)])
+    - ![Gender and Class Impact](https://github.com/gursimran8/Titanic_Logistic_Regression/blob/main/Images/Barplot_gender~class~survival.png)
 
 - **Model Performance**: 
     - The Logistic Regression model achieved an accuracy of 81%, performing better at predicting non-survivors than survivors.
